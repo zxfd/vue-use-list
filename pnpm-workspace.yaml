@@ -2,3 +2,5 @@ packages:
   - core
   - types
   - web
+  - mobile
+  - examples/*
