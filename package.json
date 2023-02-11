@@ -5,7 +5,8 @@
   "description": "this is a list hooks for vue and uni-app",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "lint:script": "eslint --ext .js,.jsx,.ts,.tsx --fix --quiet ./"
   },
   "keywords": [],
   "author": "zxiaofoo@qq.com",
@@ -14,6 +15,9 @@
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
     "eslint": "^8.34.0",
-    "eslint-plugin-vue": "^9.9.0"
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.4"
   }
 }
