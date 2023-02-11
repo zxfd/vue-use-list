@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "esnext",
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "removeComments": false,
+    "rootDir": ".",
+    "skipLibCheck": true,
+    "paths": {
+      "@vue-use-list/core/*": ["core/*"]
+    }
+  }
+}
