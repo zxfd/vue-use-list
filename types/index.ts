@@ -1,0 +1,1 @@
+export type ReqFun = (...args: any[]) => Promise<any>

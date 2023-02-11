@@ -1,0 +1,7 @@
+{
+  "name": "@vue-use-list/types",
+  "version": "1.0.0",
+  "description": "通用的类型定义",
+  "main": "index.ts",
+  "author": "zxiaofoo@qq.com"
+}
