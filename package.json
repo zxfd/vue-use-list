@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "zxiaofoo@qq.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
+    "eslint": "^8.34.0",
+    "eslint-plugin-vue": "^9.9.0"
+  }
 }
