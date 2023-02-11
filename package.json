@@ -1,0 +1,13 @@
+{
+  "name": "vue-use-list",
+  "private": true,
+  "version": "1.0.0",
+  "description": "this is a list hooks for vue and uni-app",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "zxiaofoo@qq.com",
+  "license": "ISC"
+}
