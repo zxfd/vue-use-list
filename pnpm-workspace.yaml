@@ -2,3 +2,4 @@ packages:
   - core
   - types
   - web
+  - examples/*
