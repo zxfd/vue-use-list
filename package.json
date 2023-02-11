@@ -22,5 +22,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.9.0",
     "prettier": "^2.8.4"
+  },
+  "peerDependencies": {
+    "vue": ">=2.7"
   }
 }
